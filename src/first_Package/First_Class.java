@@ -6,7 +6,7 @@ public class First_Class {
 
         System.out.println("First Class");
         
-        update
+        //update
             
             System.out.println("First Class");
         
